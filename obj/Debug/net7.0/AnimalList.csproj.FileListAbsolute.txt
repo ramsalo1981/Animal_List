@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\bin\Debug\net7.0\AnimalList.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\bin\Debug\net7.0\AnimalList.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\bin\Debug\net7.0\AnimalList.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\bin\Debug\net7.0\AnimalList.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\bin\Debug\net7.0\AnimalList.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\AnimalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\AnimalList.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\AnimalList.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\AnimalList.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\AnimalList.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\refint\AnimalList.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\AnimalList.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\AnimalList.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\AnimalList\obj\Debug\net7.0\ref\AnimalList.dll
